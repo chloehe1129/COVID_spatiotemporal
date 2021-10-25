@@ -4,7 +4,7 @@ Delay in the effect of restricting community mobility on the spread of COVID-19 
 
 It remains unclear how changes in human mobility shaped the transmission dynamic of COVID-19 during its first wave in the United States. By coupling a Bayesian hierarchical spatiotemporal model with reported case data and Google mobility data at the county level, we found that changes in movement were associated with notable changes in reported COVID-19 incidence rate about 5 to 7 weeks later. Among all movement types, residential stay was the most influential driver of COVID-19 incidence rate, with a 10% increase 7 weeks ago reducing the disease incidence rate by 13% (95% credible interval: 6-20%). A 10% increase in movement from home to workplaces, retail and recreation stores, public transits, grocery, and pharmacies 7 weeks ago was associated with an increase of 5-8% in the COVID-10 incidence rate. In contrast, parks-related movement showed minimal impact. Policymakers should anticipate such a delay when planning intervention strategies restricting human movement.
 
-## METHOD 
+## STATISTICAL METHODS
 
 In this paper, we use Bayesian hierarchical spatiotemporal models to assess the potential temporal lag in the effect of particular human movement indices and reported incidence of COVID-19. We are also able to investigate whether the lag varies spatially. These models explicitly consider over-dispersion in reported incidence and potential spatial autocorrelations among counties. The models are adjusted for potential risk factors of COVID-19, including temperature, age profiles, percentage of African Americans, percentage of Latinos, percentage below the poverty line, percentage of obesity, percentage with bachelor’s degree or above and population density.  
 
