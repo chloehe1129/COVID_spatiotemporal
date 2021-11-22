@@ -2,6 +2,7 @@ Delay in the effect of restricting community mobility on the spread of COVID-19 
 
 Shan He, Jooyoung Lee, Benjamin Langworthy, Junyi Xin, Peter James, Yang Yang, Molin Wang
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3845372
 
 ## INTRODUCTION
 
